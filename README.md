@@ -135,19 +135,3 @@ Mumbai, India
 - Email: [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
 
 Open to Data Analyst, Business Analyst, BI Analyst, and Power BI Developer opportunities.
-
-## GitHub Repository Metadata
-
-**Repository name:** `Car-Sales-Performance-Power-BI`
-
-**Suggested repository description:**
-
-> Power BI car sales dashboard analyzing vehicle revenue, profit, brands, models, customer preferences, regional sales, dealer performance, and target achievement using a synthetic Excel dataset.
-
-**Recommended GitHub topics:**
-
-`power-bi` `car-sales-analysis` `automotive-analytics` `sales-dashboard` `profitability-analysis` `customer-segmentation` `business-intelligence` `data-analytics` `dax` `microsoft-excel` `sales-performance` `Altamash-Analyst`
-
----
-
-*Portfolio project demonstrating automotive sales analytics, dashboard development, and business intelligence with Power BI and Excel.*
