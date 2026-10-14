@@ -33,31 +33,31 @@ Values retain the dashboard's displayed rounding and unit formatting. Validate m
 
 Summarizes total units sold, revenue, profit, average selling price, profit margin, and unique customers. Includes monthly revenue trends, revenue by brand, and monthly sales and revenue.
 
-![Sales Overview](Dashboard/sDashboard1.PNG)
+![Sales Overview](Dashboard/Dashboard1.PNG)
 
 ### 2. Brand & Model Analysis
 
 Compares brand revenue and unit sales, transmission preferences, top models by revenue, brand profitability, and fuel-type mix.
 
-![Brand & Model Analysis](Dashboard/sDashboard2.PNG)
+![Brand & Model Analysis](Dashboard/Dashboard2.PNG)
 
 ### 3. Customer & Vehicle Analysis
 
 Explores revenue by customer income band, units by customer segment, vehicle body type, fuel preference, customer age and gender, revenue per customer, and profit per unit.
 
-![Customer & Vehicle Analysis](Dashboard/sDashboard3.PNG)
+![Customer & Vehicle Analysis](Dashboard/Dashboard3.PNG)
 
 ### 4. Geographic Sales Analysis
 
 Reviews top cities by revenue, revenue by region, units sold by state, dealer revenue performance, and regional revenue versus profit.
 
-![Geographic Sales Analysis](Dashboard/sDashboard4.PNG)
+![Geographic Sales Analysis](Dashboard/Dashboard4.PNG)
 
 ### 5. Profitability & Management
 
 Tracks revenue and profit, profit margin, revenue and profit targets, revenue target achievement by brand, monthly actuals versus targets, profit by brand, and sales-target variance.
 
-![Profitability & Management](Dashboard/sDashboard5.PNG)
+![Profitability & Management](Dashboard/Dashboard5.PNG)
 
 ## Selected Insights
 
