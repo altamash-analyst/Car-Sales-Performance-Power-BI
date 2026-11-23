@@ -131,10 +131,8 @@ The screenshot files in this bundle were rendered from the supplied `Car Sales A
 Data Analyst | Excel • Power BI • Python • MySQL  
 Mumbai, India
 
-- GitHub: [@altamash-analyst](https://github.com/altamash-analyst)
-
-- Email: [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
-
-- **LinkedIn:** https://www.linkedin.com/in/altamash-nizamuddin-a208152a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
+- **LinkedIn:** [Altamash Nizamuddin](https://www.linkedin.com/in/altamash-nizamuddin-a208152a3/)
+- **GitHub:** [altamash-analyst](https://github.com/altamash-analyst)
+- **Email:** [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
+  
 Open to Data Analyst, Business Analyst, BI Analyst, and Power BI Developer opportunities.
